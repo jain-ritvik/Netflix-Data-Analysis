@@ -42,3 +42,7 @@ A summary of Movies vs. TV Shows in the dataset, including counts and percentage
 ![movieReleasesPerYear](movieReleasesPerYear.png)
 
 ![top10actors](top10actors.png)
+
+![content-distribution](content-distribution.png)
+
+![dataAnalysis](dataAnalysis.png)
